@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/holdr.png" alt="Holdr" width="420"/>
+  <img src="./holdr.png" alt="Holdr" width="420"/>
 </p>
 
 # Holdr
